@@ -1,5 +1,5 @@
 {
-  "name": "@opentelemetry/instrumentation-xml-http-request",
+  "name": "@honey-insurance/opentelemetry-instrumentation-xml-http-request",
   "version": "0.40.0",
   "description": "OpenTelemetry XMLHttpRequest automatic instrumentation package.",
   "main": "build/src/index.js",
